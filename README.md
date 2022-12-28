@@ -5,19 +5,19 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <a href="https://www.instagram.com/kavindulakmal37/" target="blank">
+  <a href="https://www.instagram.com/nipun_piyadigamage/" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="https://twitter.com/KLakaml" target="blank">
+  <a href="https://twitter.com/NipunWimalarat1" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   
-  <a href="https://stackoverflow.com/users/19791764/kavindu-lakmal" target="blank">
+  <a href="https://stackoverflow.com/users/20878396/nipun-wimalarathne" target="blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   
-  <a href="http://gitlab.sliit.lk/KavinduLakmal">
+  <a href="http://gitlab.sliit.lk/">
     <img src="https://skillicons.dev/icons?i=gitlab" />
   </a>
   
@@ -31,12 +31,12 @@
 
 ## Github Status:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavindulakmal&show_icons=true&theme=dark&locale=en" alt="Kavindulakmal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavindulakmal&show_icons=true&theme=dark&locale=en" alt="Nipun5435" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindulakmal&theme=dark" alt="Kavindulakmal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindulakmal&theme=dark" alt="Nipun5435" /></p>
 
 ## Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindulakmal&layout=compact)](https://github.com/Kavindulakmal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun5435&layout=compact)](https://github.com/Nipun5435/github-readme-stats)
 
 
 
