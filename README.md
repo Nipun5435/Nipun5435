@@ -31,9 +31,9 @@
 
 ## Github Status:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavindulakmal&show_icons=true&theme=dark&locale=en" alt="Nipun5435" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nipun5435&show_icons=true&theme=dark&locale=en" alt="Nipun5435" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindulakmal&theme=dark" alt="Nipun5435" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nipun5435&theme=dark" alt="Nipun5435" /></p>
 
 ## Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun5435&layout=compact)](https://github.com/Nipun5435/github-readme-stats)
